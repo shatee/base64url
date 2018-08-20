@@ -10,6 +10,6 @@ encode.onclick = () => {
 };
 
 decode.onclick = () => {
-  output.value = Base64.decode(output.value);
+  output.value = Base64.decode(input.value);
 }
 
