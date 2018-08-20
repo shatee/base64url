@@ -1,0 +1,27 @@
+{
+  "name": "base64url",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack-cli",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shatee/base64url.git"
+  },
+  "author": "shatee",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/shatee/base64url/issues"
+  },
+  "homepage": "https://github.com/shatee/base64url#readme",
+  "dependencies": {
+    "js-base64": "^2.4.8"
+  },
+  "devDependencies": {
+    "webpack": "^4.16.5",
+    "webpack-cli": "^3.1.0"
+  }
+}
